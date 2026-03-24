@@ -1,3 +1,5 @@
+j pense que l'espece de filtre pour redirer les secrets retire un peut trop :d
+
 ## 🌞 Déterminer quel algorithme de chiffrement utiliser pour vos clés
 https://www.openssh.com/txt/release-8.8
 
